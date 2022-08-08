@@ -1,0 +1,29 @@
+html{
+    background-color: #256D85;
+}
+
+.menu{
+    text-align: center;
+    background-color: #2B4865;
+}
+
+header{
+    background-color: #002B5B;
+    text-align: center;
+    color: #8FE3CF;
+}
+
+a{
+    color: #8FE3CF;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+.menu-items{
+    color: #8FE3CF;
+    display: table;
+    margin: 0 auto;
+    list-style: none;
+}

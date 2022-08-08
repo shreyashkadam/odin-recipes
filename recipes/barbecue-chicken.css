@@ -1,0 +1,22 @@
+#barbecue-chicken{
+    height: auto;
+    width: 250px;
+}
+
+header{
+    background-color: #002B5B;
+    text-align: center;
+    color: #8FE3CF;
+}
+
+html{
+    background-color: #256D85;
+}
+
+a{
+    color: #8FE3CF;
+}
+
+a:hover{
+    text-decoration: none;
+}
