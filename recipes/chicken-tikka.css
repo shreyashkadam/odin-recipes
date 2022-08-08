@@ -20,3 +20,8 @@ a{
 a:hover{
     text-decoration: none;
 }
+
+.sub-headings{
+    text-align: center;
+    background-color: #2B4865;
+}
